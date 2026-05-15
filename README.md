@@ -17,7 +17,7 @@ hacker-auth/
 ```
 
 ---
-(https://github.com/bahman-it/hacker-auth/blob/main/Images/Dashboard.jpg)
+(https://github.com/bahman-it/hacker-auth/blob/main/Images/Dashboard.jpg?raw=true)
 
 
 
