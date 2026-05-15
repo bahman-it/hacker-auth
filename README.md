@@ -17,7 +17,15 @@ hacker-auth/
 ```
 
 ---
-(https://github.com/bahman-it/hacker-auth/blob/main/Images/Dashboard.jpg?raw=true)
+## داشبۆرد
+<img width="1220" height="2425" alt="image" src="https://github.com/user-attachments/assets/eff8d445-aed9-4e81-9232-679f46cdeaf1" />
+
+## چوونه‌ ژووره‌وه‌
+<img width="1220" height="2425" alt="image" src="https://github.com/user-attachments/assets/4d47f692-2ac8-4503-8ef9-e8712f1c0b70" />
+
+## تۆمار بوون
+<img width="1220" height="2419" alt="image" src="https://github.com/user-attachments/assets/8b838678-aaf0-4743-b43f-f6240d0e99b4" />
+
 
 
 
